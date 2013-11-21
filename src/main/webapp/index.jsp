@@ -15,6 +15,8 @@ Try the service
 <ul>
     <li><a href="./rest/hello?mediaType=json&name=Bruno">/rest/hello?mediaType=json&name=Bruno</a></li>
     <li><a href="./rest/hello?mediaType=xml&name=Bruno">/rest/hello?mediaType=xml&name=Bruno</a></li>
+    <li><a href="./rest/ouch?mediaType=json">/rest/ouch?mediaType=json</a></li>
+    <li><a href="./rest/ouch?mediaType=xml">/rest/ouch?mediaType=xml</a></li>
 </ul>
 </body>
 </html>
